@@ -13,7 +13,7 @@
 - 🧪 Certified in **Oracle AI/ML**
 - 🩺 Targeting entry-level roles / internships in **healthcare & clinical data analysis**
 - 🧬 Interested in the intersection of **biology + data**: genomics, sequence analysis, and health informatics
-- 🌱 Currently sharpening skills in **SQL, Python/Pandas, Power BI**, and healthcare data standards (**HL7, ICD-10, EHR**)
+- 🌱 Currently sharpening skills in **SQL, Python/Pandas, and healthcare data standards
 - 📫 Reach me via GitHub
 
 ---
