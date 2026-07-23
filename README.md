@@ -33,12 +33,6 @@
 
 ---
 
-### 🧬 Bioinformatics Focus Areas
-
-- Pairwise sequence alignment (Needleman-Wunsch, Smith-Waterman)
-- Scoring matrices (PAM, BLOSUM)
-- FASTA/DNA sequence analysis & manipulation
-- Healthcare applications of NGS & bioinformatics
 
 ---
 
