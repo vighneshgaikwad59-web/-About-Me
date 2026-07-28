@@ -51,7 +51,6 @@
 | 📦 **[ZipCraft](#)** | File compression/archiving utility |
 | ⏰ **[Max-Hours-Finder](#)** | Finds maximum working hours from schedule data |
 | 🎙️ **[Mock Interview Coach](#)** | React app to practice professional English for interviews |
-| 👕 **[VOREN](#)** | Live clothing brand website (HTML/CSS/JS) |
 
 > Update the `#` links above with your actual repo URLs.
 
