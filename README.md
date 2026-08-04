@@ -50,7 +50,6 @@
 | 🔎 **[Web Scraper (books.toscrape.com)](#)** | Scrapes and structures book data from a target site |
 | 📦 **[ZipCraft](#)** | File compression/archiving utility |
 | ⏰ **[Max-Hours-Finder](#)** | Finds maximum working hours from schedule data |
-| 🎙️ **[Mock Interview Coach](#)** | React app to practice professional English for interviews |
 
 > Update the `#` links above with your actual repo URLs.
 
