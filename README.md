@@ -11,6 +11,7 @@
 
 - 🎓 Currently pursuing **MSc Bioinformatics** (Mumbai), after a **BSc in Biotechnology**
 - 🧪 Certified in **Oracle AI/ML**
+- 🐍 Udemy Certified — Python Bootcamp (Jose Portilla)
 - 🩺 Targeting entry-level roles / internships in **healthcare & clinical data analysis**
 - 🧬 Interested in the intersection of **biology + data**: genomics, sequence analysis, and health informatics
 - 🌱 Currently sharpening skills in **SQL, Python/Pandas, and healthcare data standards
