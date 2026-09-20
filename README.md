@@ -93,8 +93,6 @@
 | ⏰ **[Max-Hours-Finder](#)** | Finds maximum working hours from schedule data |
 | 🔁 **[Palindrome Checker](#)** | 13-line CLI script |
 
-> ⚠️ Replace all `#` links above with your actual repo URLs.
-
 ---
 
 ### 📈 GitHub Stats
