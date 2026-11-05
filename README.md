@@ -20,8 +20,6 @@
 - 🧬 Interested in the intersection of **biology + data**: genomics, sequence analysis, and health informatics
 - 🤖 Actively building a **scikit-learn** project portfolio — regression, classification, and clustering
 - 🌱 Currently sharpening skills in **SQL**, and exploring **FastAPI** next
-- 📫 Reach me via GitHub
-
 ---
 
 ### 🛠️ Tech Stack
